@@ -1,9 +1,410 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T14:23:10.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="Pc1A8L5J-TeuxauTF-j0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T16:00:16.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mKxJ4Nd74X6nzSgF8LGI" version="22.0.4" type="github">
   <diagram name="Page-1" id="56D8bgS0sk7qAVuSZqYY">
-    <mxGraphModel>
+    <mxGraphModel dx="2550" dy="3098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-1" value="Terminating" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=lOnC7uFoXmkf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-474" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-2" target="CKpu1cwLe38hgEj-_hhK-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-2" value="Tranferring" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=vOnC~M4311V-;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-3" target="CKpu1cwLe38hgEj-_hhK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-3" value="Main Menu" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=NOnC-jDYnTmw;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-474" width="246" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-4" value="Welcome Message" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=VOnCzPZjFCaA;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-477.5" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-5" target="CKpu1cwLe38hgEj-_hhK-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-5" value="Review Changes" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=gPnC25ImpP.k;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-818" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-6" value="BOT :- Employee ID?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=uRnC2uaMKCID;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-474" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-7" value="User Input - HR &#xa;&#xa;Employee - ID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=7RnCH6KD6eth;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-477.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-8" value="BOT :- Do you want to confirm terminating the employee?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=qSnC_5M-55aR;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="-415.5" width="150" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-9" value="User Input - HR &#xa;&#xa;YES" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=qSnC.rLJwqC6;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-426.25" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-10" value="BOT :- Employee not found with given ID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=uTnCBNpRxCwD;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-610.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-11" value="User Input - HR &#xa;&#xa;Employee - ID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=uTnCk~Lkkhkv;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-610.5" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-12" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.75;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=3TnCoQryJsre;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-7" target="CKpu1cwLe38hgEj-_hhK-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-13" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.75;exitPerimeter=0;entryX=-0.003;entryY=0.506;entryPerimeter=0;lucidId=~TnC2-Xf9nOe;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-7" target="CKpu1cwLe38hgEj-_hhK-10">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-14" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.003;entryPerimeter=0;lucidId=cUnCwvyvFDCr;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-11" target="CKpu1cwLe38hgEj-_hhK-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-17" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=JUnCsn8r6bZP;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-1" target="CKpu1cwLe38hgEj-_hhK-6">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-18" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=LUnCPGuqYsM4;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-3" target="CKpu1cwLe38hgEj-_hhK-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=UUnCBlZ3NgmO;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-4" target="CKpu1cwLe38hgEj-_hhK-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-20" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.003;entryY=0.5;entryPerimeter=0;lucidId=zVnCym8wlyHK;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1874.5499999999997" y="-487.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-21" value="Bot :- Why Are you Terminating the Employee." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="-548.75" width="122.5" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-22" value="Layoffs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2060.5" y="-365" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-23" value="Resignation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2068" y="-660" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-24" value="Cause" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2058" y="-526.25" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CKpu1cwLe38hgEj-_hhK-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="-520" as="sourcePoint" />
+            <mxPoint x="2040" y="-570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CKpu1cwLe38hgEj-_hhK-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2002.5" y="-485" as="sourcePoint" />
+            <mxPoint x="2081.5" y="-566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="CKpu1cwLe38hgEj-_hhK-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1979" y="-435.75" as="sourcePoint" />
+            <mxPoint x="2058" y="-516.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2470" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-31" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="-655" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2410" y="-476.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-33" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="-516.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2470" y="-420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-34" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2158" y="-357.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-37" target="CKpu1cwLe38hgEj-_hhK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-37" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="-516.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-39" value="Termination Documentation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2412.5" y="-533.75" width="107.5" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-40" value="Below is the Email Content, which is being shared to the concerned Employee.&amp;nbsp;&lt;br&gt;&lt;br&gt;Is this is okay?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="-600" width="246" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-45" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Display the following :-&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Name of the Employee and the Emp-ID&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2. Cause of Termination&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;3. Expected Date of Official Resignation&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;Do you want to process Equipment Return ?&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2713.75" y="-600" width="396.25" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-46" target="CKpu1cwLe38hgEj-_hhK-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-46" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="-520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-53" value="&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px 0px 1.25em;&quot;&gt;Subject: Return of Company Equipment&lt;/p&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 1.25em 0px;&quot;&gt;Dear [Employee&#39;s Name],&lt;/p&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 1.25em 0px;&quot;&gt;I hope this email finds you well. We acknowledge your resignation from [Company Name]. As part of the exit process, kindly arrange for the return of all company-related equipment, including [list of items] by [deadline]. Please coordinate with [contact person] for logistics.&lt;/p&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 1.25em 0px 0px;&quot;&gt;Best regards, [Your Name]&lt;/p&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(209, 213, 219); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: rgb(68, 70, 84);&quot;&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="-575" width="580" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-55" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="-533.75" width="133.75" height="133.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-56" target="CKpu1cwLe38hgEj-_hhK-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-56" target="CKpu1cwLe38hgEj-_hhK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-56" value="Do you want to Process the Data Removal of this Employee right now?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="-610.5" width="246" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-57" target="CKpu1cwLe38hgEj-_hhK-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-57" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4596" y="-756.87" width="133.75" height="133.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-58" target="CKpu1cwLe38hgEj-_hhK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-58" value="NO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4596" y="-354" width="133.75" height="133.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-61" value="Flagging of relevant details to be removed.&lt;br&gt;&lt;div&gt;1. EmployeeID&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2. PersonalDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;3. EducationDetailsDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;4. IssuesDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;5. PossessionDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;6. ProjectDB&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4880" y="-818" width="256" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-62" target="CKpu1cwLe38hgEj-_hhK-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-62" value="Flags Necessary Details&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5136" y="-770" width="153.75" height="153.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-63" target="CKpu1cwLe38hgEj-_hhK-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5730" y="-690.3333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-63" value="The Flagged Details will be removed from the database.&lt;br&gt;&lt;br&gt;The Concerned Employee&#39;s Resignation is now processed.&lt;br&gt;&lt;br&gt;Thank you for using Ask Archie.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5400" y="-821.13" width="256" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-66" value="Goes Back to Main Menu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5770" y="-821.13" width="256" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-55" target="CKpu1cwLe38hgEj-_hhK-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-75" value="Go back to main menu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4900" y="-410.13" width="246" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-78" value="BOT:-&amp;nbsp;&lt;br&gt;Employee ID?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=vOnC~M4311V-;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-79" value="User Input - HR &#xa;&#xa;Employee - ID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=7RnCH6KD6eth;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-80" value="BOT :- Employee not found with given ID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=uTnCBNpRxCwD;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-81" value="User Input - HR &#xa;&#xa;Employee - ID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=uTnCk~Lkkhkv;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-260" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-82" value="BOT :- Do you want to confirm transfering the employee?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=qSnC_5M-55aR;" vertex="1" parent="1">
+          <mxGeometry x="1390" width="150" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-83" target="CKpu1cwLe38hgEj-_hhK-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-83" value="User Input - HR &#xa;&#xa;YES" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=qSnC.rLJwqC6;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="10" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.741;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-79" target="CKpu1cwLe38hgEj-_hhK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.03;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-79" target="CKpu1cwLe38hgEj-_hhK-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.304;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-81" target="CKpu1cwLe38hgEj-_hhK-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="-130" as="sourcePoint" />
+            <mxPoint x="1600" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-87" value="Please Enter the Department to be Transferred" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="-1.25" width="157.5" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-88" target="CKpu1cwLe38hgEj-_hhK-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-88" value="User Input - HR &lt;br&gt;&lt;br&gt;gives the Department" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=qSnC.rLJwqC6;" vertex="1" parent="1">
+          <mxGeometry x="1987.5" y="10" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-89" value="Please Enter the Designation to be Transferred of the Employee" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2272.5" y="-1.25" width="157.5" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-90" target="CKpu1cwLe38hgEj-_hhK-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-90" value="User Input - HR &lt;br&gt;&lt;br&gt;Gives the designation" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=qSnC.rLJwqC6;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="10" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-94" target="CKpu1cwLe38hgEj-_hhK-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-94" value="The Concerned Employee&#39;s Tranferring is now processed.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Thank you for using Ask Archie.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="-10" width="175" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-95" value="Goes Back to Main Menu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="-5.25" width="165.5" height="165.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-99" target="CKpu1cwLe38hgEj-_hhK-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-99" value="Terminating Employees List" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=gPnC25ImpP.k;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-1110" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-100" value="Display List of all Employees Expected to be out of the company" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=gPnC25ImpP.k;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="-1130" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-101" target="CKpu1cwLe38hgEj-_hhK-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-101" value="Check Details of a Particular Employee ID?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=gPnC25ImpP.k;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-870" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-103" value="Check Details of a Particular Employee ID?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=gPnC25ImpP.k;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-1110" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-104" target="CKpu1cwLe38hgEj-_hhK-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-104" value="User Input - HR &#xa;&#xa;Employee - ID" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=uTnCk~Lkkhkv;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-1100" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-106" target="CKpu1cwLe38hgEj-_hhK-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2120" y="-1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-106" value="&lt;span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;Display the following :-&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;1. Name of the Employee and the Emp-ID&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;2. Cause of Termination&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;3. Expected Date of Official Resignation&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 12px; text-align: left;&quot;&gt;&lt;span&gt;&lt;br&gt;Do you want to OPTIONS&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=gPnC25ImpP.k;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1910" y="-1150" width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-107" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Has the Employee Rescinded resignation?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="-1240" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-109" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2. Do you want to Process Data Removal?&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="-1020" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-111" target="CKpu1cwLe38hgEj-_hhK-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-111" value="Yes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="-1230" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-112" value="YES" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="-990" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-115" target="CKpu1cwLe38hgEj-_hhK-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-115" value="Checks a particular employee" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="-1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-5" target="CKpu1cwLe38hgEj-_hhK-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.002;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-3" target="CKpu1cwLe38hgEj-_hhK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-122" value="Do you want to confirm, rescinding the termination of this employee?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2725" y="-1248.75" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-123" target="CKpu1cwLe38hgEj-_hhK-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-123" value="Yes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2895" y="-1221.25" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-124" value="Processing Withdrawal Documentation immediately.&amp;nbsp;&lt;br&gt;&lt;br&gt;I&#39;m pleased to inform you that your request to rescind your resignation has been approved. We&#39;re excited to have you continue your journey with [Company Name]. Let&#39;s discuss a smooth transition back into your role. Welcome back" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3231.44" y="-1306.56" width="303.12" height="303.12" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-130" value="Flagging of relevant details to be removed.&lt;br&gt;&lt;div&gt;1. EmployeeID&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2. PersonalDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;3. EducationDetailsDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;4. IssuesDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;5. PossessionDB&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;6. ProjectDB&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2700.25" y="-954" width="256" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-131" target="CKpu1cwLe38hgEj-_hhK-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-131" value="Flags Necessary Details&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2956.25" y="-906" width="153.75" height="153.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-133" target="CKpu1cwLe38hgEj-_hhK-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3720" y="-1120.3333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-133" value="The Flagged Details will be removed from the database.&lt;br&gt;&lt;br&gt;The Concerned Employee&#39;s Resignation is now processed.&lt;br&gt;&lt;br&gt;Thank you for using Ask Archie.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="-957.12" width="256" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-134" value="Goes Back to Main Menu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3700" y="-957.12" width="256" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-138" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.086;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-109" target="CKpu1cwLe38hgEj-_hhK-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2980" y="-900" as="sourcePoint" />
+            <mxPoint x="3030" y="-950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-144" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Has the Employee&#39;s termination date changed?&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2272.5" y="-1540" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-145" target="CKpu1cwLe38hgEj-_hhK-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-145" value="Yes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2442.5" y="-1521.25" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-147" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Has the Employee&#39;s termination date changed?&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="-1540" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-148" value="Yes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="-1511.25" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-149" target="CKpu1cwLe38hgEj-_hhK-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-149" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Process the Documentation for the Employee&#39;s Resignation Date Changing to a new Date&lt;br&gt;&lt;br&gt;Thank you for using Ask Archie&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3622" y="-1555" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-150" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Goes Back to Main Menu&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3930" y="-1540" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-151" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Please Enter the New Date&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="-1540" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-152" target="CKpu1cwLe38hgEj-_hhK-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-152" value="HR Enter&#39;s Date" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="-1521.25" width="132.5" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CKpu1cwLe38hgEj-_hhK-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CKpu1cwLe38hgEj-_hhK-148" target="CKpu1cwLe38hgEj-_hhK-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
